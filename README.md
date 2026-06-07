@@ -102,4 +102,4 @@ TALKING    →  MUTED      (mute)
 
 ## Author
 
-Lia Wilkinson — [github.com/AliaX0](https://github.com/AliaX0)
+Lia — [github.com/AliaX0](https://github.com/AliaX0)
